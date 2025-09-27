@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\consol c#\\Villa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E79D524C-1944-41C1-B5A8-8855F154D0E5}|Villa\\Villa.csproj|d:\\consol c#\\villa\\villa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79D524C-1944-41C1-B5A8-8855F154D0E5}|Villa\\Villa.csproj|solutionrelative:villa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79D524C-1944-41C1-B5A8-8855F154D0E5}|Villa\\Villa.csproj|d:\\consol c#\\villa\\villa\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79D524C-1944-41C1-B5A8-8855F154D0E5}|Villa\\Villa.csproj|solutionrelative:villa\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79D524C-1944-41C1-B5A8-8855F154D0E5}|Villa\\Villa.csproj|d:\\consol c#\\villa\\villa\\controllers\\v1\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79D524C-1944-41C1-B5A8-8855F154D0E5}|Villa\\Villa.csproj|solutionrelative:villa\\controllers\\v1\\villaapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79D524C-1944-41C1-B5A8-8855F154D0E5}|Villa\\Villa.csproj|d:\\consol c#\\villa\\villa\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79D524C-1944-41C1-B5A8-8855F154D0E5}|Villa\\Villa.csproj|solutionrelative:villa\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79D524C-1944-41C1-B5A8-8855F154D0E5}|Villa\\Villa.csproj|d:\\consol c#\\villa\\villa\\controllers\\v1\\villanumbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79D524C-1944-41C1-B5A8-8855F154D0E5}|Villa\\Villa.csproj|solutionrelative:villa\\controllers\\v1\\villanumbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79D524C-1944-41C1-B5A8-8855F154D0E5}|Villa\\Villa.csproj|d:\\consol c#\\villa\\villa\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79D524C-1944-41C1-B5A8-8855F154D0E5}|Villa\\Villa.csproj|solutionrelative:villa\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_A0S0GCJ/Villa/True/SqlTable/dbo.VillaNumbers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 165,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\consol c#\\Villa\\Villa\\Program.cs",
+              "RelativeDocumentMoniker": "Villa\\Program.cs",
+              "ToolTip": "D:\\consol c#\\Villa\\Villa\\Program.cs",
+              "RelativeToolTip": "Villa\\Program.cs",
+              "ViewState": "AQIAABMAAAAAZGZmZmYswEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T19:32:44.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VillaNumberController.cs",
+              "DocumentMoniker": "D:\\consol c#\\Villa\\Villa\\Controllers\\V1\\VillaNumberController.cs",
+              "RelativeDocumentMoniker": "Villa\\Controllers\\V1\\VillaNumberController.cs",
+              "ToolTip": "D:\\consol c#\\Villa\\Villa\\Controllers\\V1\\VillaNumberController.cs",
+              "RelativeToolTip": "Villa\\Controllers\\V1\\VillaNumberController.cs",
+              "ViewState": "AQIAABoAAACA0MzMzMwmwCIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:09:13.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\consol c#\\Villa\\Villa\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "Villa\\Repository\\Repository.cs",
+              "ToolTip": "D:\\consol c#\\Villa\\Villa\\Repository\\Repository.cs",
+              "RelativeToolTip": "Villa\\Repository\\Repository.cs",
+              "ViewState": "AQIAAAwAAAAAIDMzMzPzvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:06:18.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\consol c#\\Villa\\Villa\\Repository\\IRepository.cs",
+              "RelativeDocumentMoniker": "Villa\\Repository\\IRepository.cs",
+              "ToolTip": "D:\\consol c#\\Villa\\Villa\\Repository\\IRepository.cs",
+              "RelativeToolTip": "Villa\\Repository\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:06:01.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "dbo.VillaNumbers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_A0S0GCJ/Villa/True/SqlTable/dbo.VillaNumbers.sql",
+              "ToolTip": "dbo.VillaNumbers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-03-26T15:05:28.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VillaApiController.cs",
+              "DocumentMoniker": "D:\\consol c#\\Villa\\Villa\\Controllers\\V1\\VillaApiController.cs",
+              "RelativeDocumentMoniker": "Villa\\Controllers\\V1\\VillaApiController.cs",
+              "ToolTip": "D:\\consol c#\\Villa\\Villa\\Controllers\\V1\\VillaApiController.cs",
+              "RelativeToolTip": "Villa\\Controllers\\V1\\VillaApiController.cs",
+              "ViewState": "AQIAAEsAAAAA/v////8bwBoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T14:54:56.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\consol c#\\Villa\\Villa\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Villa\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\consol c#\\Villa\\Villa\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "Villa\\Repository\\UserRepository.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAABIPUIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T20:29:56.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
