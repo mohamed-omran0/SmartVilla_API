@@ -22,7 +22,7 @@ The purpose of this project is to:
 - ✅ **Repository Pattern** for separation of data access logic.  
 - ✅ **Domain Driven Design (DDD)** with clear domain entities.  
 - ✅ **CRUD operations** for villa management:  
-  - Villas (basic property details, size, rate, amenities, images).  
+  - Villas (basic property details, size, rate, amenities).  
   - Villa Numbers (specific unit numbers tied to a villa).  
 - ✅ **Local User Management** for authentication.  
 - ✅ **Authentication & Role-based Authorization** using **ASP.NET Identity** and **JWT Tokens**.  
